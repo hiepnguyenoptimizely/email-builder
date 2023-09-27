@@ -1,4 +1,4 @@
-# [GrapesJS](http://grapesjs.com) a modern drag-n-drop editor webpage
+# GrapesJS a modern drag-n-drop editor webpage
 
 ## Table of contents
 
@@ -42,7 +42,6 @@ There're two target users in this investigation.
 <p align="center"><img src="http://grapesjs.com/img/grapesjs-front-page-m.jpg" alt="GrapesJS" width="500" align="center"/></p>
 
 ## Why GrapesJS
----
 
 GrapesJS is a free and open source Web Builder Framework which helps building HTML templates, faster and easily, to be delivered in sites, newsletters or mobile apps. Mainly, GrapesJS was designed to be used inside a [CMS](https://en.wikipedia.org/wiki/Content_management_system "https://en.wikipedia.org/wiki/Content_management_system") to speed up the creation of dynamic templates. To better understand this concept check the image below
 
@@ -55,7 +54,6 @@ Generally any 'template system', that you'd find in various applications like CM
 Read [Github](https://github.com/GrapesJS/grapesjs) for more.
 
 #### Features
----
 
 | Blocks | Style Manager | Layer Manager |
 |--|--|--|
@@ -68,8 +66,8 @@ Read [Github](https://github.com/GrapesJS/grapesjs) for more.
 * Local and remote storage
 
 * Default built-in commands (basically for creating and managing different components)
+
 #### Download
----
 
 * CDNs
   * UNPKG (resolves to the latest version)
@@ -84,8 +82,8 @@ Read [Github](https://github.com/GrapesJS/grapesjs) for more.
   * `git clone https://github.com/GrapesJS/grapesjs.git`
 
 For the development purpose you should follow instructions below.
+
 #### Usage
----
 ```html
 <link rel="stylesheet" href="path/to/grapes.min.css">
 <script src="path/to/grapes.min.js"></script>
@@ -101,7 +99,6 @@ For the development purpose you should follow instructions below.
 </script>
 ```
 #### Development
----
 
 Clone the repository and install all the necessary dependencies (`yarn` is highly recommended)
 
@@ -121,20 +118,16 @@ Once the development server is started you should be able to reach the demo page
 
 
 #### Documentation
----
 
 Check the getting started guide here: [Documentation]
 
 #### API
----
 
 API References could be found here: [API-Reference]
 
 #### Plugins
----
 
 ##### Wrappers
----
 
 * [@grapesjs/react](https://github.com/GrapesJS/react) - GrapesJS wrapper for React that allows you to build custom and declarative UI for your editor.
 
@@ -174,7 +167,6 @@ API References could be found here: [API-Reference]
 Find out more about plugins here: [Creating plugins](https://grapesjs.com/docs/modules/Plugins.html)
 
 ## Samples
----
 With [GrapesJS](https://github.com/GrapesJS/grapesjs) you can create your own plugin, components and feel free to do what in your mind.
 
 ***Here are my samples after 3 days***
